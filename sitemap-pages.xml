@@ -16,11 +16,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/field_note-002-cj4iwc.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260705-1043.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -36,6 +31,81 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0421.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0422.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0429.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260722-0012.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/interview-001-1tmt0e6.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/t3link-002-1tmt0e6.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/field_note-002-cj4iwc.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/review-002.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0418.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -47,16 +117,6 @@
   </url>
   <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0420.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0421.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0422.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,11 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0429.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260719-0430.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -117,11 +172,6 @@
   </url>
   <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260721-0127.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260722-0012.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -172,66 +222,6 @@
   </url>
   <url>
     <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/gemini-coverage-20260722-0022.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/interview-001-1tmt0e6.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/review-001.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/review-002.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts/t3link-002-1tmt0e6.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-room-guide.hardcoreroom.com/posts-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
